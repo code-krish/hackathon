@@ -1,0 +1,29 @@
+.pizzaCard-container {
+    margin: 70px;
+}
+
+.pizza-img {
+    width: 200px;
+    height: 200px;
+    margin-left: 50px!important;
+}
+
+.flex-container {
+    display: flex;
+    
+}
+
+select {
+    box-shadow: none !important;
+    border-color: black !important;
+}
+
+.viewScreen-img{
+   
+    height: 400px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
